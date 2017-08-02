@@ -1,14 +1,14 @@
-.container button {
-  background: transparent;
-  border: 1px solid turquoise;
+.btn-container button {
+  background: black;
+  border: 3px solid turquoise;
   border-radius: 40px;
   color: turquoise;
   float: right;
-  font-size: 1.5vw;
-  height: 7%;
+  font-size: 1.0em;
+  height: 35px;
   left: 43%;
   position: absolute;
   text-decoration: none;
-  top: 87%;
-  width: 13%;
+  top: 85%;
+  width: 150px;
   z-index: 1; }

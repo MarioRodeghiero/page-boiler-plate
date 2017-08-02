@@ -1,9 +1,9 @@
-$break-small:400px;
-$break-large:800px;
+$break-small:450px;
+
 .flex-container {
     background: linear-gradient(135deg, rgba(85, 239, 203, 1) 0%, rgba(30, 87, 153, 1) 0%, rgba(85, 239, 203, 1) 0%, rgba(91, 202, 255, 1) 100%);
     top: 510px;
-    height: 100vh;
+    height: 100%;
     width: 100%;
     display: flex;
     flex-direction: row;
